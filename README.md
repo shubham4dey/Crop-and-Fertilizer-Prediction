@@ -1,7 +1,5 @@
 # Crop-and-Fertilizer-Prediction
 
-<div align="center">
-
 ## About
 
 <b>AgriAI</b> is a machine learning based we application build using React and Flask. AgriAI is used for recommending Crop and Fertilizers based on the soil features. The application used three accuractely predciting models to make the final predictions. The link for the python notebooks containing the implementation for the models are present in the <b><a href="#links">All Links</a></b> section of this Readme.<br/>
