@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # Crop-and-Fertilizer-Prediction
+=======
+<div align="center">
+
+# AgriAI Web Application
+
+</div>
+>>>>>>> origin/master
 
 ## About
 
