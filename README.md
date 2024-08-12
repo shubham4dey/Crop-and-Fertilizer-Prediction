@@ -8,7 +8,6 @@ An API was built using Flask and was deployed on Heroku. This Flask API is used 
 
 React JS was used to build the frontend part of the application. JS packages such as MaterialUI, Axios, react-router-dom were used for frontend part of the web application.<br/>
 
-<b>Deployed Web Application Link: </b>https://agriai-app-a9c34.web.app
 <br/>
 
 <h3><b>Flask API End Points</b></h3>
